@@ -56,6 +56,7 @@ flowchart TD
 | See models | `agent models` |
 | Update the CLI | `agent update` |
 
+
 ---
 
 ## 1. Install
